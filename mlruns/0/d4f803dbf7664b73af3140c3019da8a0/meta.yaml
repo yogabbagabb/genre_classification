@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/d4f803dbf7664b73af3140c3019da8a0/artifacts
+end_time: 1704043230636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f803dbf7664b73af3140c3019da8a0
+run_name: monumental-colt-180
+run_uuid: d4f803dbf7664b73af3140c3019da8a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043202516
+status: 3
+tags: []
+user_id: AahanAgrawal

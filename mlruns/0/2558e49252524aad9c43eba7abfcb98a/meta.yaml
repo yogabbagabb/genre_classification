@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/2558e49252524aad9c43eba7abfcb98a/artifacts
+end_time: 1704043405454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2558e49252524aad9c43eba7abfcb98a
+run_name: traveling-shad-887
+run_uuid: 2558e49252524aad9c43eba7abfcb98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043339710
+status: 3
+tags: []
+user_id: AahanAgrawal

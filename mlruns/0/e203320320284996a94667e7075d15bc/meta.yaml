@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/e203320320284996a94667e7075d15bc/artifacts
+end_time: 1704043230788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e203320320284996a94667e7075d15bc
+run_name: entertaining-pug-567
+run_uuid: e203320320284996a94667e7075d15bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043169307
+status: 4
+tags: []
+user_id: AahanAgrawal

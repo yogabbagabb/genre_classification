@@ -1,0 +1,28 @@
+2023-12-31 17:17:46,819 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Current SDK version is 0.16.1
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Configure stats pid to 44794
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Loading settings from /Users/AahanAgrawal/.config/wandb/settings
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Loading settings from /Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/wandb/settings
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'project': 'exercise_14', 'run_group': 'dev'}
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'random_forest/run.py', 'program_abspath': '/Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/run.py', 'program': '/Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/run.py'}
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:_log_setup():524] Logging user logs to /Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/wandb/run-20231231_171746-1n2xrt3a/logs/debug.log
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/wandb/run-20231231_171746-1n2xrt3a/logs/debug-internal.log
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:init():564] calling init triggers
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:init():614] starting backend
+2023-12-31 17:17:46,820 INFO    MainThread:44794 [wandb_init.py:init():618] setting up manager
+2023-12-31 17:17:46,822 INFO    MainThread:44794 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-12-31 17:17:46,823 INFO    MainThread:44794 [wandb_init.py:init():624] backend started and connected
+2023-12-31 17:17:46,826 INFO    MainThread:44794 [wandb_init.py:init():716] updated telemetry
+2023-12-31 17:17:46,847 INFO    MainThread:44794 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2023-12-31 17:17:47,229 INFO    MainThread:44794 [wandb_run.py:_on_init():2254] communicating current version
+2023-12-31 17:17:47,290 INFO    MainThread:44794 [wandb_run.py:_on_init():2263] got version response 
+2023-12-31 17:17:47,290 INFO    MainThread:44794 [wandb_init.py:init():800] starting run threads in backend
+2023-12-31 17:17:48,339 INFO    MainThread:44794 [wandb_run.py:_console_start():2233] atexit reg
+2023-12-31 17:17:48,339 INFO    MainThread:44794 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2023-12-31 17:17:48,339 INFO    MainThread:44794 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2023-12-31 17:17:48,339 INFO    MainThread:44794 [wandb_run.py:_redirect():2178] Redirects installed.
+2023-12-31 17:17:48,339 INFO    MainThread:44794 [wandb_init.py:init():841] run started, returning control to user process
+2023-12-31 17:17:49,462 INFO    MainThread:44794 [wandb_run.py:_config_callback():1342] config_cb None None {'random_forest': {'n_estimators': 100, 'criterion': 'gini', 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 1, 'min_weight_fraction_leaf': 0.0, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'bootstrap': True, 'oob_score': False, 'n_jobs': None, 'random_state': 42, 'verbose': 0, 'warm_start': False, 'class_weight': 'balanced', 'ccp_alpha': 0.0, 'max_samples': None}, 'tfidf': {'max_features': 10}, 'features': {'numerical': ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms'], 'categorical': ['time_signature', 'key'], 'nlp': ['text_feature']}, 'export_artifact': 'model_export'}
+2023-12-31 17:17:55,283 WARNING MsgRouterThr:44794 [router.py:message_loop():77] message_loop has been closed

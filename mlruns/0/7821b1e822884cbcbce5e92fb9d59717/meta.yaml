@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/7821b1e822884cbcbce5e92fb9d59717/artifacts
+end_time: 1704042513641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7821b1e822884cbcbce5e92fb9d59717
+run_name: enchanting-crow-611
+run_uuid: 7821b1e822884cbcbce5e92fb9d59717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042502075
+status: 3
+tags: []
+user_id: AahanAgrawal

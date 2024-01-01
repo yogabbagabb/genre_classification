@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/87ef9114f86648b0977254e4dc8e3c52/artifacts
+end_time: 1704039609327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87ef9114f86648b0977254e4dc8e3c52
+run_name: charming-calf-383
+run_uuid: 87ef9114f86648b0977254e4dc8e3c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039607886
+status: 4
+tags: []
+user_id: AahanAgrawal

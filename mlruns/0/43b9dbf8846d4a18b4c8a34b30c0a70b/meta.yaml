@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/43b9dbf8846d4a18b4c8a34b30c0a70b/artifacts
+end_time: 1704039140740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43b9dbf8846d4a18b4c8a34b30c0a70b
+run_name: bedecked-wren-802
+run_uuid: 43b9dbf8846d4a18b4c8a34b30c0a70b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039138426
+status: 4
+tags: []
+user_id: AahanAgrawal

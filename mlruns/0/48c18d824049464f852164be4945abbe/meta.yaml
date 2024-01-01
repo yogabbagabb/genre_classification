@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/48c18d824049464f852164be4945abbe/artifacts
+end_time: 1704039575088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48c18d824049464f852164be4945abbe
+run_name: bright-grouse-432
+run_uuid: 48c18d824049464f852164be4945abbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039573612
+status: 4
+tags: []
+user_id: AahanAgrawal

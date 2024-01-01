@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/4b14f9936b3840b3b9719ad21c6b3941/artifacts
+end_time: 1704039546329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b14f9936b3840b3b9719ad21c6b3941
+run_name: hilarious-shark-515
+run_uuid: 4b14f9936b3840b3b9719ad21c6b3941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039543674
+status: 4
+tags: []
+user_id: AahanAgrawal

@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/6f897742cb1944e6920a9ee527d29685/artifacts
+end_time: 1704039787069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f897742cb1944e6920a9ee527d29685
+run_name: adorable-horse-639
+run_uuid: 6f897742cb1944e6920a9ee527d29685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039730442
+status: 3
+tags: []
+user_id: AahanAgrawal

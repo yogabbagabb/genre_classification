@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/1cbad44aab124dc69ec3387e9041d160/artifacts
+end_time: 1704042523223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cbad44aab124dc69ec3387e9041d160
+run_name: thundering-ant-636
+run_uuid: 1cbad44aab124dc69ec3387e9041d160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042513669
+status: 3
+tags: []
+user_id: AahanAgrawal

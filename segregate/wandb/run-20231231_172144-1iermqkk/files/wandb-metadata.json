@@ -1,0 +1,50 @@
+{
+    "os": "macOS-12.7.1-arm64-arm-64bit",
+    "python": "3.12.0",
+    "heartbeatAt": "2023-12-31T17:21:44.640958",
+    "startedAt": "2023-12-31T17:21:44.139493",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data:latest",
+        "--artifact_root",
+        "segregated_data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "null"
+    ],
+    "state": "running",
+    "program": "/Users/AahanAgrawal/Documents/workspace/genre_classification/segregate/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "git@github.com:yogabbagabb/genre_classification.git",
+        "commit": "28d6e3b0c3ddb103fe57bcd627fcaec2ec8eca61"
+    },
+    "email": "aahan.agrawal@veeva.com",
+    "root": "/Users/AahanAgrawal/Documents/workspace/genre_classification",
+    "host": "EU-VT0GMQG6L6",
+    "username": "AahanAgrawal",
+    "executable": "/Users/AahanAgrawal/miniconda3/envs/mlflow-8a57f3cc09a7b52d858514234f742e14d63ffd8e/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 20.42892074584961
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

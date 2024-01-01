@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/2e576c2e47c14967b57a40c56c642a34/artifacts
+end_time: 1704043202480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e576c2e47c14967b57a40c56c642a34
+run_name: bedecked-yak-340
+run_uuid: 2e576c2e47c14967b57a40c56c642a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043191023
+status: 3
+tags: []
+user_id: AahanAgrawal

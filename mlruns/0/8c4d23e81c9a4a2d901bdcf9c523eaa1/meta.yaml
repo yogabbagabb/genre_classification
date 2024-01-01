@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/8c4d23e81c9a4a2d901bdcf9c523eaa1/artifacts
+end_time: 1704042989991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4d23e81c9a4a2d901bdcf9c523eaa1
+run_name: thoughtful-elk-755
+run_uuid: 8c4d23e81c9a4a2d901bdcf9c523eaa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042939720
+status: 4
+tags: []
+user_id: AahanAgrawal

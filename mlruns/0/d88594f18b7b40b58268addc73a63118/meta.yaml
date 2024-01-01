@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/d88594f18b7b40b58268addc73a63118/artifacts
+end_time: 1704042241929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d88594f18b7b40b58268addc73a63118
+run_name: handsome-crane-38
+run_uuid: d88594f18b7b40b58268addc73a63118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042218873
+status: 3
+tags: []
+user_id: AahanAgrawal

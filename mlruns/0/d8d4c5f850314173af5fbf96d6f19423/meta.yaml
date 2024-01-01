@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/d8d4c5f850314173af5fbf96d6f19423/artifacts
+end_time: 1704043291711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8d4c5f850314173af5fbf96d6f19423
+run_name: nervous-goat-266
+run_uuid: d8d4c5f850314173af5fbf96d6f19423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043282018
+status: 3
+tags: []
+user_id: AahanAgrawal

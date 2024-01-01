@@ -1,0 +1,191 @@
+2023-12-31 17:11:41,177 INFO    StreamThr :41881 [internal.py:wandb_internal():86] W&B internal server running at pid: 41881, started at: 2023-12-31 17:11:41.176467
+2023-12-31 17:11:41,178 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: status
+2023-12-31 17:11:41,179 INFO    WriterThread:41881 [datastore.py:open_for_write():85] open: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/run-3q7p0hmj.wandb
+2023-12-31 17:11:41,180 DEBUG   SenderThread:41881 [sender.py:send():382] send: header
+2023-12-31 17:11:41,197 DEBUG   SenderThread:41881 [sender.py:send():382] send: run
+2023-12-31 17:11:41,536 INFO    SenderThread:41881 [dir_watcher.py:__init__():211] watching files in: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files
+2023-12-31 17:11:41,537 INFO    SenderThread:41881 [sender.py:_start_run_threads():1136] run started: 3q7p0hmj with start time 1704042701.177376
+2023-12-31 17:11:41,550 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: check_version
+2023-12-31 17:11:41,550 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: check_version
+2023-12-31 17:11:41,620 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: run_start
+2023-12-31 17:11:41,641 DEBUG   HandlerThread:41881 [system_info.py:__init__():32] System info init
+2023-12-31 17:11:41,641 DEBUG   HandlerThread:41881 [system_info.py:__init__():47] System info init done
+2023-12-31 17:11:41,642 INFO    HandlerThread:41881 [system_monitor.py:start():194] Starting system monitor
+2023-12-31 17:11:41,642 INFO    SystemMonitor:41881 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-31 17:11:41,643 INFO    HandlerThread:41881 [system_monitor.py:probe():214] Collecting system info
+2023-12-31 17:11:41,643 INFO    SystemMonitor:41881 [interfaces.py:start():190] Started cpu monitoring
+2023-12-31 17:11:41,643 DEBUG   HandlerThread:41881 [system_info.py:probe():196] Probing system
+2023-12-31 17:11:41,643 INFO    SystemMonitor:41881 [interfaces.py:start():190] Started disk monitoring
+2023-12-31 17:11:41,646 INFO    SystemMonitor:41881 [interfaces.py:start():190] Started gpuapple monitoring
+2023-12-31 17:11:41,648 INFO    SystemMonitor:41881 [interfaces.py:start():190] Started memory monitoring
+2023-12-31 17:11:41,649 INFO    SystemMonitor:41881 [interfaces.py:start():190] Started network monitoring
+2023-12-31 17:11:41,652 DEBUG   HandlerThread:41881 [system_info.py:_probe_git():181] Probing git
+2023-12-31 17:11:41,671 DEBUG   HandlerThread:41881 [system_info.py:_probe_git():189] Probing git done
+2023-12-31 17:11:41,671 DEBUG   HandlerThread:41881 [system_info.py:probe():244] Probing system done
+2023-12-31 17:11:41,672 DEBUG   HandlerThread:41881 [system_monitor.py:probe():223] {'os': 'macOS-12.7.1-arm64-arm-64bit', 'python': '3.12.1', 'heartbeatAt': '2023-12-31T17:11:41.643674', 'startedAt': '2023-12-31T17:11:41.171455', 'docker': None, 'cuda': None, 'args': ('--input_artifact', 'raw_data:latest', '--artifact_name', 'preprocessed_data', '--artifact_type', 'preprocessed_data', '--artifact_description', 'Preprocessed data'), 'state': 'running', 'program': '/Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/run.py', 'codePathLocal': 'run.py', 'codePath': 'preprocess/run.py', 'git': {'remote': 'git@github.com:yogabbagabb/genre_classification.git', 'commit': '28d6e3b0c3ddb103fe57bcd627fcaec2ec8eca61'}, 'email': 'aahan.agrawal@veeva.com', 'root': '/Users/AahanAgrawal/Documents/workspace/genre_classification', 'host': 'EU-VT0GMQG6L6', 'username': 'AahanAgrawal', 'executable': '/Users/AahanAgrawal/miniconda3/envs/mlflow-4dac83e71e02aa1ae97092cbee22d4a2cc1c65a8/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'disk': {'/': {'total': 926.3517189025879, 'used': 20.42892074584961}}, 'gpuapple': {'type': 'arm', 'vendor': 'Apple'}, 'memory': {'total': 32.0}}
+2023-12-31 17:11:41,672 INFO    HandlerThread:41881 [system_monitor.py:probe():224] Finished collecting system info
+2023-12-31 17:11:41,672 INFO    HandlerThread:41881 [system_monitor.py:probe():227] Publishing system info
+2023-12-31 17:11:41,672 DEBUG   HandlerThread:41881 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-12-31 17:11:41,672 DEBUG   HandlerThread:41881 [system_info.py:_save_pip():68] Saving pip packages done
+2023-12-31 17:11:41,672 DEBUG   HandlerThread:41881 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2023-12-31 17:11:42,288 DEBUG   HandlerThread:41881 [system_info.py:_save_conda():87] Saving conda packages done
+2023-12-31 17:11:42,289 INFO    HandlerThread:41881 [system_monitor.py:probe():229] Finished publishing system info
+2023-12-31 17:11:42,291 DEBUG   SenderThread:41881 [sender.py:send():382] send: files
+2023-12-31 17:11:42,291 INFO    SenderThread:41881 [sender.py:_save_file():1392] saving file wandb-metadata.json with policy now
+2023-12-31 17:11:42,294 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-31 17:11:42,295 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-31 17:11:42,295 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: stop_status
+2023-12-31 17:11:42,540 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/requirements.txt
+2023-12-31 17:11:42,540 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/conda-environment.yaml
+2023-12-31 17:11:42,540 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/wandb-metadata.json
+2023-12-31 17:11:42,540 DEBUG   SenderThread:41881 [sender.py:send():382] send: telemetry
+2023-12-31 17:11:42,768 INFO    wandb-upload_0:41881 [upload_job.py:push():131] Uploaded file /var/folders/66/s_8hdmv54vbdrp7n60s76tkh0000gp/T/tmpskyhemonwandb/v36ytkr9-wandb-metadata.json
+2023-12-31 17:11:42,946 DEBUG   SenderThread:41881 [sender.py:send():382] send: use_artifact
+2023-12-31 17:11:43,541 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/output.log
+2023-12-31 17:11:43,741 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: log_artifact
+2023-12-31 17:11:43,742 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: log_artifact
+2023-12-31 17:11:44,183 INFO    SenderThread:41881 [sender.py:send_request_log_artifact():1458] logged artifact preprocessed_data - {'id': 'QXJ0aWZhY3Q6Njc4NDA2ODMz', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyNjU4MTkxMg==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6Njc4NDA2ODMz', 'versionIndex': 0}}}
+2023-12-31 17:11:44,184 DEBUG   SenderThread:41881 [sender.py:send():382] send: exit
+2023-12-31 17:11:44,185 INFO    SenderThread:41881 [sender.py:send_exit():589] handling exit code: 0
+2023-12-31 17:11:44,185 INFO    SenderThread:41881 [sender.py:send_exit():591] handling runtime: 2
+2023-12-31 17:11:44,187 INFO    SenderThread:41881 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-31 17:11:44,187 INFO    SenderThread:41881 [sender.py:send_exit():597] send defer
+2023-12-31 17:11:44,187 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,187 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 0
+2023-12-31 17:11:44,188 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,188 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 0
+2023-12-31 17:11:44,188 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 1
+2023-12-31 17:11:44,188 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,188 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 1
+2023-12-31 17:11:44,188 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,188 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 1
+2023-12-31 17:11:44,188 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 2
+2023-12-31 17:11:44,188 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,189 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 2
+2023-12-31 17:11:44,189 INFO    HandlerThread:41881 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-31 17:11:44,189 DEBUG   SystemMonitor:41881 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-31 17:11:44,189 DEBUG   SystemMonitor:41881 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-31 17:11:44,190 DEBUG   SystemMonitor:41881 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-31 17:11:44,191 INFO    HandlerThread:41881 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-31 17:11:44,191 INFO    HandlerThread:41881 [interfaces.py:finish():202] Joined disk monitor
+2023-12-31 17:11:44,191 INFO    HandlerThread:41881 [interfaces.py:finish():202] Joined gpuapple monitor
+2023-12-31 17:11:44,191 INFO    HandlerThread:41881 [interfaces.py:finish():202] Joined memory monitor
+2023-12-31 17:11:44,191 INFO    HandlerThread:41881 [interfaces.py:finish():202] Joined network monitor
+2023-12-31 17:11:44,191 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,192 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 2
+2023-12-31 17:11:44,192 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 3
+2023-12-31 17:11:44,192 DEBUG   SenderThread:41881 [sender.py:send():382] send: telemetry
+2023-12-31 17:11:44,192 DEBUG   SenderThread:41881 [sender.py:send():382] send: stats
+2023-12-31 17:11:44,192 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,192 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 3
+2023-12-31 17:11:44,192 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,192 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 3
+2023-12-31 17:11:44,192 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 4
+2023-12-31 17:11:44,192 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,192 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 4
+2023-12-31 17:11:44,192 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,192 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 4
+2023-12-31 17:11:44,193 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 5
+2023-12-31 17:11:44,193 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,193 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 5
+2023-12-31 17:11:44,193 DEBUG   SenderThread:41881 [sender.py:send():382] send: summary
+2023-12-31 17:11:44,193 INFO    SenderThread:41881 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-31 17:11:44,193 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,193 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 5
+2023-12-31 17:11:44,193 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 6
+2023-12-31 17:11:44,194 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,194 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 6
+2023-12-31 17:11:44,194 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,194 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 6
+2023-12-31 17:11:44,196 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: status_report
+2023-12-31 17:11:44,358 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 7
+2023-12-31 17:11:44,358 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,358 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 7
+2023-12-31 17:11:44,359 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,359 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 7
+2023-12-31 17:11:44,548 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/config.yaml
+2023-12-31 17:11:44,549 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/wandb-summary.json
+2023-12-31 17:11:44,563 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 8
+2023-12-31 17:11:44,564 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,564 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 8
+2023-12-31 17:11:44,564 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:44,564 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 8
+2023-12-31 17:11:44,564 INFO    SenderThread:41881 [job_builder.py:build():298] Attempting to build job artifact
+2023-12-31 17:11:44,565 INFO    SenderThread:41881 [job_builder.py:_get_source_type():428] is repo sourced job
+2023-12-31 17:11:44,566 INFO    SenderThread:41881 [job_builder.py:build():404] adding wandb-job metadata file
+2023-12-31 17:11:44,569 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 9
+2023-12-31 17:11:44,570 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:44,570 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 9
+2023-12-31 17:11:44,570 DEBUG   SenderThread:41881 [sender.py:send():382] send: artifact
+2023-12-31 17:11:44,753 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-31 17:11:45,008 INFO    SenderThread:41881 [sender.py:send_artifact():1470] sent artifact job-git_github.com_yogabbagabb_genre_classification.git_preprocess_run.py - {'id': 'QXJ0aWZhY3Q6Njc4NDA2ODgw', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyNjU4MTkyNA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6Njc4NDA2ODgw', 'versionIndex': 0}}}
+2023-12-31 17:11:45,008 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:45,008 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 9
+2023-12-31 17:11:45,008 INFO    SenderThread:41881 [dir_watcher.py:finish():358] shutting down directory watcher
+2023-12-31 17:11:45,548 INFO    Thread-12 :41881 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/output.log
+2023-12-31 17:11:45,549 INFO    SenderThread:41881 [dir_watcher.py:finish():388] scan: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files
+2023-12-31 17:11:45,549 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/requirements.txt requirements.txt
+2023-12-31 17:11:45,549 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/output.log output.log
+2023-12-31 17:11:45,549 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/config.yaml config.yaml
+2023-12-31 17:11:45,552 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/wandb-summary.json wandb-summary.json
+2023-12-31 17:11:45,552 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/conda-environment.yaml conda-environment.yaml
+2023-12-31 17:11:45,555 INFO    SenderThread:41881 [dir_watcher.py:finish():402] scan save: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/wandb-metadata.json wandb-metadata.json
+2023-12-31 17:11:45,555 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 10
+2023-12-31 17:11:45,556 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: poll_exit
+2023-12-31 17:11:45,556 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:45,556 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 10
+2023-12-31 17:11:45,557 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:45,557 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 10
+2023-12-31 17:11:45,557 INFO    SenderThread:41881 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-31 17:11:45,757 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-31 17:11:45,758 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: poll_exit
+2023-12-31 17:11:45,894 INFO    wandb-upload_1:41881 [upload_job.py:push():131] Uploaded file /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/output.log
+2023-12-31 17:11:45,931 INFO    wandb-upload_0:41881 [upload_job.py:push():131] Uploaded file /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/requirements.txt
+2023-12-31 17:11:45,986 INFO    wandb-upload_3:41881 [upload_job.py:push():131] Uploaded file /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/wandb-summary.json
+2023-12-31 17:11:45,986 INFO    wandb-upload_2:41881 [upload_job.py:push():131] Uploaded file /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/config.yaml
+2023-12-31 17:11:45,995 INFO    wandb-upload_4:41881 [upload_job.py:push():131] Uploaded file /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/files/conda-environment.yaml
+2023-12-31 17:11:46,196 INFO    Thread-11 (_thread_body):41881 [sender.py:transition_state():617] send defer: 11
+2023-12-31 17:11:46,197 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:46,197 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 11
+2023-12-31 17:11:46,197 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:46,197 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 11
+2023-12-31 17:11:46,197 INFO    SenderThread:41881 [file_pusher.py:join():181] waiting for file pusher
+2023-12-31 17:11:46,197 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 12
+2023-12-31 17:11:46,197 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:46,197 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 12
+2023-12-31 17:11:46,197 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:46,197 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 12
+2023-12-31 17:11:46,197 INFO    SenderThread:41881 [file_stream.py:finish():595] file stream finish called
+2023-12-31 17:11:46,605 INFO    SenderThread:41881 [file_stream.py:finish():599] file stream finish is done
+2023-12-31 17:11:46,605 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 13
+2023-12-31 17:11:46,605 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:46,605 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 13
+2023-12-31 17:11:46,605 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:46,605 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 13
+2023-12-31 17:11:46,605 INFO    SenderThread:41881 [sender.py:transition_state():617] send defer: 14
+2023-12-31 17:11:46,605 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: defer
+2023-12-31 17:11:46,605 INFO    HandlerThread:41881 [handler.py:handle_request_defer():172] handle defer: 14
+2023-12-31 17:11:46,605 DEBUG   SenderThread:41881 [sender.py:send():382] send: final
+2023-12-31 17:11:46,605 DEBUG   SenderThread:41881 [sender.py:send():382] send: footer
+2023-12-31 17:11:46,605 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: defer
+2023-12-31 17:11:46,605 INFO    SenderThread:41881 [sender.py:send_request_defer():613] handle sender defer: 14
+2023-12-31 17:11:46,605 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: server_info
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: get_summary
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: sampled_history
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-31 17:11:46,606 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: poll_exit
+2023-12-31 17:11:46,606 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: poll_exit
+2023-12-31 17:11:46,606 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: server_info
+2023-12-31 17:11:46,606 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: job_info
+2023-12-31 17:11:46,726 DEBUG   SenderThread:41881 [sender.py:send_request():409] send_request: job_info
+2023-12-31 17:11:46,726 INFO    MainThread:41881 [wandb_run.py:_footer_history_summary_info():3837] rendering history
+2023-12-31 17:11:46,726 INFO    MainThread:41881 [wandb_run.py:_footer_history_summary_info():3869] rendering summary
+2023-12-31 17:11:46,726 INFO    MainThread:41881 [wandb_run.py:_footer_sync_info():3796] logging synced files
+2023-12-31 17:11:46,727 DEBUG   HandlerThread:41881 [handler.py:handle_request():146] handle_request: shutdown
+2023-12-31 17:11:46,727 INFO    HandlerThread:41881 [handler.py:finish():866] shutting down handler
+2023-12-31 17:11:47,615 INFO    WriterThread:41881 [datastore.py:close():294] close: /Users/AahanAgrawal/Documents/workspace/genre_classification/preprocess/wandb/run-20231231_171141-3q7p0hmj/run-3q7p0hmj.wandb
+2023-12-31 17:11:47,731 INFO    SenderThread:41881 [sender.py:finish():1548] shutting down sender
+2023-12-31 17:11:47,735 INFO    SenderThread:41881 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-31 17:11:47,735 INFO    SenderThread:41881 [file_pusher.py:join():181] waiting for file pusher

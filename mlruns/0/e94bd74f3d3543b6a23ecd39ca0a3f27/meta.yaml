@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/e94bd74f3d3543b6a23ecd39ca0a3f27/artifacts
+end_time: 1704039829743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e94bd74f3d3543b6a23ecd39ca0a3f27
+run_name: marvelous-calf-262
+run_uuid: e94bd74f3d3543b6a23ecd39ca0a3f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039683017
+status: 4
+tags: []
+user_id: AahanAgrawal

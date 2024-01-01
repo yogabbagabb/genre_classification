@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/f079b30b3d2946d4b9df10b7c08dfb2d/artifacts
+end_time: 1704042952641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f079b30b3d2946d4b9df10b7c08dfb2d
+run_name: painted-smelt-727
+run_uuid: f079b30b3d2946d4b9df10b7c08dfb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042941728
+status: 3
+tags: []
+user_id: AahanAgrawal

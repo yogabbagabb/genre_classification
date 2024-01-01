@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/a49f87e082e34a3e84a0a09fa84a9b8a/artifacts
+end_time: 1704043063975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a49f87e082e34a3e84a0a09fa84a9b8a
+run_name: likeable-shrimp-961
+run_uuid: a49f87e082e34a3e84a0a09fa84a9b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043052552
+status: 3
+tags: []
+user_id: AahanAgrawal

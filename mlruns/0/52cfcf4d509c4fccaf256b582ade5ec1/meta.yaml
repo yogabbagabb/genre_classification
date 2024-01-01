@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/52cfcf4d509c4fccaf256b582ade5ec1/artifacts
+end_time: 1704043339681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52cfcf4d509c4fccaf256b582ade5ec1
+run_name: bold-kite-137
+run_uuid: 52cfcf4d509c4fccaf256b582ade5ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043313420
+status: 3
+tags: []
+user_id: AahanAgrawal

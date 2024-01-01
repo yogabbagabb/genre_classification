@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/645b3393c5694d248b56cf7f51ec46a8/artifacts
+end_time: 1704042708392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645b3393c5694d248b56cf7f51ec46a8
+run_name: omniscient-wasp-675
+run_uuid: 645b3393c5694d248b56cf7f51ec46a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042698863
+status: 3
+tags: []
+user_id: AahanAgrawal

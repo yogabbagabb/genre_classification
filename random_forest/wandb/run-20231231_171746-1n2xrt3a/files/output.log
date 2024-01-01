@@ -1,0 +1,22 @@
+2023-12-31 17:17:48,340 Downloading and reading train artifact
+2023-12-31 17:17:49,441 Extracting target from dataframe
+2023-12-31 17:17:49,443 Splitting train/val
+2023-12-31 17:17:49,460 Setting up pipeline
+2023-12-31 17:17:49,463 Fitting
+Traceback (most recent call last):
+  File "/Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/run.py", line 263, in <module>
+    go(args)
+  File "/Users/AahanAgrawal/Documents/workspace/genre_classification/random_forest/run.py", line 55, in go
+    pipe.fit(X_train[used_columns], y_train)
+  File "/Users/AahanAgrawal/miniconda3/envs/mlflow-85f4e61375c797442f569cae4dea60c8fe332ba6/lib/python3.11/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/AahanAgrawal/miniconda3/envs/mlflow-85f4e61375c797442f569cae4dea60c8fe332ba6/lib/python3.11/site-packages/sklearn/pipeline.py", line 427, in fit
+    self._final_estimator.fit(Xt, y, **fit_params_last_step)
+  File "/Users/AahanAgrawal/miniconda3/envs/mlflow-85f4e61375c797442f569cae4dea60c8fe332ba6/lib/python3.11/site-packages/sklearn/base.py", line 1145, in wrapper
+    estimator._validate_params()
+  File "/Users/AahanAgrawal/miniconda3/envs/mlflow-85f4e61375c797442f569cae4dea60c8fe332ba6/lib/python3.11/site-packages/sklearn/base.py", line 638, in _validate_params
+    validate_parameter_constraints(
+  File "/Users/AahanAgrawal/miniconda3/envs/mlflow-85f4e61375c797442f569cae4dea60c8fe332ba6/lib/python3.11/site-packages/sklearn/utils/_param_validation.py", line 96, in validate_parameter_constraints
+    raise InvalidParameterError(
+sklearn.utils._param_validation.InvalidParameterError: The 'max_features' parameter of RandomForestClassifier must be an int in the range [1, inf), a float in the range (0.0, 1.0], a str among {'sqrt', 'log2'} or None. Got 'auto' instead.

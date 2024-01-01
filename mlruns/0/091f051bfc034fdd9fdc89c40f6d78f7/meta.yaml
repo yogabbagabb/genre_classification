@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/091f051bfc034fdd9fdc89c40f6d78f7/artifacts
+end_time: 1704042206109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 091f051bfc034fdd9fdc89c40f6d78f7
+run_name: efficient-mouse-301
+run_uuid: 091f051bfc034fdd9fdc89c40f6d78f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042194059
+status: 3
+tags: []
+user_id: AahanAgrawal

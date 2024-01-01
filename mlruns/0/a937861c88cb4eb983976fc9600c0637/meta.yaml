@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/a937861c88cb4eb983976fc9600c0637/artifacts
+end_time: 1704043052527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a937861c88cb4eb983976fc9600c0637
+run_name: victorious-ox-593
+run_uuid: a937861c88cb4eb983976fc9600c0637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043043033
+status: 3
+tags: []
+user_id: AahanAgrawal

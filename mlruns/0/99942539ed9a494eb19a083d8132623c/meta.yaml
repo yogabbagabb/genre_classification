@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/99942539ed9a494eb19a083d8132623c/artifacts
+end_time: 1704039730416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99942539ed9a494eb19a083d8132623c
+run_name: valuable-slug-415
+run_uuid: 99942539ed9a494eb19a083d8132623c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039684412
+status: 3
+tags: []
+user_id: AahanAgrawal

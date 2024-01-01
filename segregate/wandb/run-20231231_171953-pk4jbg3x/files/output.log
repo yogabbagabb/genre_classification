@@ -1,0 +1,6 @@
+2023-12-31 17:19:54,265 Downloading and reading artifact
+2023-12-31 17:19:55,380 Splitting data into train, val and test
+2023-12-31 17:19:55,384 Uploading the train dataset to segregated_data_train.csv
+2023-12-31 17:19:55,560 Logging artifact
+2023-12-31 17:19:56,740 Uploading the test dataset to segregated_data_test.csv
+2023-12-31 17:19:56,838 Logging artifact

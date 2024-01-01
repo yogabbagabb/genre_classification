@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/5ba7ab60e1e0492a81cf25b5cc3cc2cc/artifacts
+end_time: 1704038950869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba7ab60e1e0492a81cf25b5cc3cc2cc
+run_name: unique-smelt-508
+run_uuid: 5ba7ab60e1e0492a81cf25b5cc3cc2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704038934680
+status: 4
+tags: []
+user_id: AahanAgrawal

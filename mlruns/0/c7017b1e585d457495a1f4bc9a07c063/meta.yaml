@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/c7017b1e585d457495a1f4bc9a07c063/artifacts
+end_time: 1704043075985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7017b1e585d457495a1f4bc9a07c063
+run_name: bold-grouse-523
+run_uuid: c7017b1e585d457495a1f4bc9a07c063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704043064004
+status: 4
+tags: []
+user_id: AahanAgrawal

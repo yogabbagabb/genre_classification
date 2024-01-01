@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/c5b1f250f6bf4c0185dc89485260a1d2/artifacts
+end_time: 1704039829576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b1f250f6bf4c0185dc89485260a1d2
+run_name: stately-seal-455
+run_uuid: c5b1f250f6bf4c0185dc89485260a1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704039787103
+status: 4
+tags: []
+user_id: AahanAgrawal

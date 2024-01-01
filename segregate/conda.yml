@@ -1,0 +1,10 @@
+name: download_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas=2.1.4
+  - pip=23.3.2
+  - scikit-learn=1.3.2
+  - pip:
+      - wandb==0.16.1

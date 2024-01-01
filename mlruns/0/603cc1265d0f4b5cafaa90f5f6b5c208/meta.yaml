@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/603cc1265d0f4b5cafaa90f5f6b5c208/artifacts
+end_time: 1704042539529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 603cc1265d0f4b5cafaa90f5f6b5c208
+run_name: painted-colt-33
+run_uuid: 603cc1265d0f4b5cafaa90f5f6b5c208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042499693
+status: 4
+tags: []
+user_id: AahanAgrawal

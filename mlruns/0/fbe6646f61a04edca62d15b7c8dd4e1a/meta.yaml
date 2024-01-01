@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/fbe6646f61a04edca62d15b7c8dd4e1a/artifacts
+end_time: 1704042790557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbe6646f61a04edca62d15b7c8dd4e1a
+run_name: monumental-doe-86
+run_uuid: fbe6646f61a04edca62d15b7c8dd4e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042686339
+status: 4
+tags: []
+user_id: AahanAgrawal

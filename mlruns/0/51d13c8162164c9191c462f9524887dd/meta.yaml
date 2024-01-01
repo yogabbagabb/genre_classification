@@ -1,0 +1,15 @@
+artifact_uri: file://Users/AahanAgrawal/Documents/workspace/genre_classification/mlruns/0/51d13c8162164c9191c462f9524887dd/artifacts
+end_time: 1704042242090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d13c8162164c9191c462f9524887dd
+run_name: unique-lamb-422
+run_uuid: 51d13c8162164c9191c462f9524887dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704042191160
+status: 4
+tags: []
+user_id: AahanAgrawal
